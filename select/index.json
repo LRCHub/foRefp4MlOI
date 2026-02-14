@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "blan_",
+  "base_artist": "Arika",
+  "createdAt": "2026-02-14T07:54:58.650586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blan",
+      "artist": "Tagne",
+      "has_synced": true,
+      "path": "select/01_Blan_Tagne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blin Blin Blin Blan",
+      "artist": "King Blvck",
+      "has_synced": false,
+      "path": "select/02_Blin_Blin_Blin_Blan_King_Blvck.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drapeau Blan",
+      "artist": "Coeur de Pirate",
+      "has_synced": true,
+      "path": "select/03_Drapeau_Blan_Coeur_de_Pirate.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blan (feat. 7liwa & Madd)",
+      "artist": "Tagne",
+      "has_synced": true,
+      "path": "select/04_Blan_(feat._7liwa_&_Madd)_Tagne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blah Blan Blah (Feat. 3OH!3)",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/05_Blah_Blan_Blah_(Feat._3OH!3)_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doub Blan",
+      "artist": "Baky",
+      "has_synced": true,
+      "path": "select/06_Doub_Blan_Baky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blan (feat. Madd & 7liwa)",
+      "artist": "Tagne",
+      "has_synced": true,
+      "path": "select/07_Blan_(feat._Madd_&_7liwa)_Tagne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3ENDI BLAN",
+      "artist": "DAVINXX",
+      "has_synced": true,
+      "path": "select/08_3ENDI_BLAN_DAVINXX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "blan_",
+      "artist": "Arika",
+      "has_synced": false,
+      "path": "select/09_blan_Arika.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "blan_",
+      "artist": "Arika",
+      "has_synced": true,
+      "path": "select/10_blan_Arika.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "blan",
+      "artist": "arika",
+      "has_synced": false,
+      "path": "select/11_blan_arika.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "blan_",
+      "artist": "Arika",
+      "has_synced": false,
+      "path": "select/pl_01_blan_Arika.txt"
+    }
+  ]
+}
